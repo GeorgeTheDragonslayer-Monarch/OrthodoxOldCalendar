@@ -2,7 +2,7 @@
 
 Automatically post daily Orthodox calendar information from [orthocal.info](https://orthocal.info/) to your Discord server.
 
-## Features
+## Features1
 
 - 📅 **Daily Calendar Posts**: Automatically fetches and posts daily Orthodox calendar information
 - 🎨 **Rich Formatting**: Beautiful Discord embeds with liturgical colors
